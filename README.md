@@ -3,7 +3,7 @@
 __RAPPEL :__ La reponse a incident et le traitement des traces numeriques est un champ critique donc faites appel a des pro en cas de probleme.
 
 ## Contenu
-- Le challenge RIP_MY_PXE d'Itarow -- Barb'hack 2023
+- Le challenge RIP_MY_PXE d'[Itarow](https://twitter.com/0xItarow) -- [Barb'hack](https://www.barbhack.fr/2023/en/) 2023
 - Quelques slides presentees pendant le talk
 - un shell nix pour pouvoir realiser le chall
 > [Lien vers l'archive](https://drive.proton.me/urls/X1NTG0FXC4#WDbL73RG0Wpx)
