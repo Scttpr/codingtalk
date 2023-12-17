@@ -15,6 +15,7 @@ SHA256 de l'archive : `3848802f58530e6d940af526e4336927a61e5445283889836ecabad08
 - [HackTheBox](https://www.hackthebox.com/) -> Niveau plus avance, pour consolider ses acquis
 
 ## Pour s'informer et progresser
+- [Awasome Forensics](https://github.com/Cugu/awesome-forensics) -> *
 - [The DFIR Report](https://thedfirreport.com/) -> Des rapports de reelles intrusions, par des professionnels
 - [Blog du SANS Institute](https://www.sans.org/blog/?focus-area=digital-forensics) -> Des articles du SANS, institut de formation reference pour ses certifs FORXXX
 - [The Art of Memory Forensics](https://annas-archive.org/search?q=The+art+of+Memory+Forensics) -> Un bouquin de reference
